@@ -1,17 +1,18 @@
 # Merchandise-management-system
-=========
+
 # 商品管理系统
 
 ## 项目简介
 这是一个完整的商品管理系统，包含后端API和前端界面。系统提供商品的添加、编辑、删除和查询功能，以及用户登录认证。
 
+这个项目只是自己手动练手用的，功能很简单
 ## 技术栈
 
 ### 后端
 - Python 3.8+
 - Django 4.2+
 - Django REST framework
-- SQLite (默认) / MySQL
+- SQLite  / MySQL
 
 ### 前端
 - Vue 3
