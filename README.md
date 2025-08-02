@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
+# Merchandise-management-system
+=========
 # 商品管理系统
 
 ## 项目简介
@@ -106,7 +108,7 @@ npm run dev
 - 响应式布局，适配不同设备
 
 ## 项目截图
-
+无
 
 ## 联系方式
 如有问题或建议，请联系: [tongmeiyuebai667@gmail.com]
