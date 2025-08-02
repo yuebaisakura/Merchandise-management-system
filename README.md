@@ -1,6 +1,5 @@
-<<<<<<<<< Temporary merge branch 1
 # Merchandise-management-system
-=========
+
 # 商品管理系统
 
 ## 项目简介
